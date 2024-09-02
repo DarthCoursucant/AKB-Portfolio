@@ -1,0 +1,674 @@
+/* MAX WIDTH 1300PX */
+@media (max-width: 1300px) {
+  
+    #header-index h1 {
+      margin-left: -80px;
+      margin-top: 0px;
+    }
+    
+    .index-main-text h2 {
+      margin-left: 480px;
+    }
+    
+    #projects-index-body-link {
+      margin-left: 210px;
+    }
+    
+    #about-index-body-link, #hire-index-body-link, #certificates-index-body-link {
+      margin-left: 70px;
+    }
+  
+    .header-page-names a {
+      width: 500px;
+      display: flex;
+    }
+  
+    #first-header, #second-header, #last-header {
+      margin-top: 50px;
+    }
+  
+    #first-header {
+      margin-left: 200px;
+    }
+  
+    #second-header, #last-header {
+     margin-left: -30px;
+    }
+  
+    .decor-section, .decor-section-second, .decor-section-one, .decor-section-last {
+      margin-left: -30px;
+    }
+  
+    #about-text-container {
+      margin-left: 90px;
+    }
+  
+    #paragraph-about p, #paragraph-about-one p, #paragraph-about-twice p {
+      padding-right: 100px;
+    }
+  
+    .about-me-page-main-header {
+      margin-left: -30px;
+    }
+  
+    .show-certifactes-button {
+      margin-left: 150px;
+    }
+    
+    .contact-container {
+      margin-left: 100px;
+    }
+  
+    .square-eyes-project-preview {
+      margin-left: 100px;
+    }
+  }
+    
+  /* MAX WIDTH 1200PX */
+  @media (max-width: 1200px) {
+    #header-index h1 {
+      margin-left: -150px;
+      margin-top: 0px;
+    }
+    
+    .index-main-text h2 {
+      margin-left: 420px;
+    }
+  
+    #projects-index-body-link {
+      margin-left: 150px;
+    }
+  
+    .header-page-names a {
+      font-size: 30px;
+    }
+  
+    #first-header a, #second-header a, #last-header a {
+      font-size: 27px;
+    }
+  
+    #first-header, #second-header, #last-header {
+      margin-top: 40px;
+    }
+  
+    #second-header, #last-header {
+      margin-left: -50px;
+    }
+  
+    #first-header {
+      margin-left: 150px;
+    }
+  
+    #paragraph-about p, #paragraph-about-one p, #paragraph-about-twice p {
+      font-size: 25px;
+      padding-right: 200px;
+    }
+  
+    .about-me-page-main-header {
+      margin-left: -60px;
+    }
+  
+    .show-certifactes-button {
+      margin-left: 120px;
+    }
+    
+    .contact-container {
+      width: 900px;
+      margin-left: 120px;
+    }
+  
+    .square-eyes-project-preview {
+      margin-left: 60px;
+    }
+  }
+  
+  /* MAX WIDTH 1150PX */
+  @media (max-width: 1150px) {
+    #first-header {
+      margin-left: 120px;
+    }
+    
+    .show-certifactes-button {
+      margin-left: 110px;
+    }
+  
+    .square-eyes-project-preview {
+      margin-left: 30px;
+    }
+  }
+  
+  @media (max-width: 1100px) {
+    #header-index h1 {
+      margin-left: -200px;
+    }
+    
+    .index-main-text h2 {
+      margin-left: 370px;
+    }
+    
+    #projects-index-body-link {
+      margin-left: 150px;
+    }
+      
+    #about-index-body-link, #hire-index-body-link, #certificates-index-body-link {
+      margin-left: 50px;
+    }
+  
+    #first-header a, #second-header a, #last-header a {
+      font-size: 25px;
+    }
+  
+    #second-header, #last-header {
+      margin-left: -60px;
+    }
+  
+    #first-header {
+      margin-left: 100px;
+    }
+  
+    .decor-section, .decor-section-second, .decor-section-one, .decor-section-last {
+      margin-left: -45px;
+    }
+  
+    #about-text-container {
+      margin-left: 70px;
+    }
+  
+    #header-about h1, #header-about-one h1, #header-about-twice h1 {
+      font-size: 35px;
+    }
+  
+    #paragraph-about p, #paragraph-about-one p, #paragraph-about-twice p {
+      font-size: 22px;
+      padding-right: 250px;
+    }
+  
+    .about-me-page-main-header {
+      margin-left: -80px;
+    }
+  
+    .show-certifactes-button {
+      margin-left: 100px;
+    }
+  
+    .certicate-only img {
+      width: 250px;
+    }
+  
+    .certicate-only {
+      margin-left: 400px;
+    }
+  
+    #title-container h1 {
+      font-size: 35px;
+    }
+  
+    #title-container {
+      margin-left: -50px;
+    }
+    
+    .contact-container {
+      margin-left: 80px;
+    }
+  
+    .project-container img {
+      width: 250px;
+      height: 150px;
+    }
+    
+    .square-eyes-project-preview {
+      margin-left: 80px;
+    }
+  }
+  
+  /* MAX WIDTH 1050PX */
+  @media (max-width: 1050px) {
+    #first-header {
+      margin-left: 50px;
+    }
+  
+    .show-certifactes-button {
+      margin-left: 90px;
+    }
+    
+    .contact-container {
+      margin-left: 60px;
+    }
+  }
+    
+  /* MAX WIDTH 1000PX */
+  @media (max-width: 1000px) {
+    #header-index h1 {
+      margin-left: -200px;
+      font-size: 60px;
+    }
+    
+    .index-main-text h2 {
+      font-size: 30px;
+      margin-left: 350px;
+    }
+    
+    #projects-index-body-link a, #about-index-body-link a, #hire-index-body-link a, #certificates-index-body-link a {
+      font-size: 25px;
+    }
+  
+    #first-header {
+      margin-left: 0px;
+    }
+  
+    #paragraph-about p, #paragraph-about-one p, #paragraph-about-twice p {
+      font-size: 20px;
+      padding-right: 330px;
+    }
+  
+    .show-certifactes-button {
+      margin-left: 70px;
+    }
+  
+    .certicate-only img {
+      width: 200px;
+    }
+  
+    .certicate-only {
+      margin-left: 350px;
+    }
+  
+    #title-container {
+      margin-left: -85px;
+    }
+    
+    .contact-container {
+      width: 750px;
+      margin-left: 100px;
+    }
+    
+    #contact-header h1 {
+      font-size: 35px;
+    }
+    
+    #contact-links a, #contact-links p {
+      font-size: 25px;
+    }
+  
+    .project-container img {
+      width: 200px;
+      height: 100px;
+    }
+    
+    .square-eyes-project-preview {
+      margin-left: 120px;
+    }
+  }
+  
+  /* MAX WIDTH 950PX */
+  @media (max-width: 950px) {
+    #first-header, #second-header, #last-header {
+      display: none;
+    }
+    
+    .flex-menu {
+      display: flex;
+      margin-left: 300px;
+    }
+  
+    .show-certifactes-button {
+      margin-left: 50px;
+    }
+  
+    .menubar h2 {
+      font-size: 30px;
+    }
+  
+    .menubar a {
+      font-size: 20px;
+    }
+  
+    .certicate-only {
+      margin-left: 320px;
+    }
+  }
+  
+  /* MAX WIDTH 900PX */
+  @media (max-width: 900px) {
+    #header-index h1 {
+      margin-left: -200px;
+      font-size: 50px;
+    }
+    
+    .index-main-text h2 {
+      font-size: 25px;
+      margin-left: 350px;
+    }
+    
+    #projects-index-body-link a, #about-index-body-link a, #hire-index-body-link a, #certificates-index-body-link a {
+        font-size: 20px;
+      }
+    
+    #projects-index-body-link {
+        margin-left: 170px;
+    }
+  
+    .decor-section, .decor-section-second, .decor-section-one, .decor-section-last {
+      margin-left: -55px;
+    }
+  
+    .flex-menu {
+      margin-left: 250px;
+    }
+  
+    #paragraph-about p, #paragraph-about-one p, #paragraph-about-twice p {
+      font-size: 18px;
+      padding-right: 450px;
+    }
+  
+    #header-about h1, #header-about-one h1, #header-about-twice h1 {
+      font-size: 30px;
+    }
+  
+    .about-me-page-main-header h1 {
+      font-size: 30px;
+    }
+  
+    .about-me-page-main-header {
+      margin-bottom: -40px;
+      margin-top: -10px;
+    }
+  
+    button {
+      width: 200px;
+      font-size: 15px;
+    }
+    
+    .contact-container {
+      width: 600px;
+      margin-left: 120px;
+    }
+  
+    .square-eyes-project-preview {
+      margin-left: 50px;
+    }
+    
+    .page-title-body h1 {
+      font-size: 30px;
+      margin-left: -50px;
+    }
+  }
+  
+  /* MAX WIDTH 850PX */
+  @media (max-width: 850px) {
+    .flex-menu {
+      margin-left: 200px;
+  }
+  
+    .certicate-only {
+      margin-left: 280px;
+    }
+  }
+  
+  /* MAX WIDTH 800PX */
+  @media (max-width: 800px) {
+    #header-index h1 {
+      margin-left: -280px;
+    }
+    
+    .index-main-text h2 {
+      margin-left: 270px;
+    }
+    
+    #about-index-body-link, #hire-index-body-link, #certificates-index-body-link {
+      margin-left: 30px;
+    }
+    
+    #projects-index-body-link {
+      margin-left: 150px;
+    }
+  
+    .flex-menu {
+      margin-left: 150px;
+    }
+  
+    #paragraph-about p, #paragraph-about-one p, #paragraph-about-twice p {
+      font-size: 15px;
+      padding-right: 550px;
+    }
+  
+    button {
+      width: 170px;
+    }
+  
+    .certicate-only {
+      margin-left: 250px;
+    }
+    
+    .contact-container {
+      margin-left: 90px;
+    }
+  
+    .community-science-museum-preview, .gamehub-preview {
+      margin-left: 30px;
+    }
+    
+    .square-eyes-project-preview {
+      margin-left: 30px;
+    }
+  }
+  
+  /* MAX WIDTH 750PX */
+  @media (max-width: 750px) {
+    .flex-menu {
+      margin-left: 100px;
+    }
+  
+    .contact-container {
+      margin-left: 60px;
+    }
+  }
+    
+  /* MAX WIDTH 730PX */
+  @media (max-width: 730px) {
+    #header-index h1 {
+      margin-left: -330px;
+    }
+    
+    .index-main-text h2 {
+      margin-left: 220px;
+    }
+    
+    #projects-index-body-link {
+      margin-left: 100px;
+    }
+  
+    #paragraph-about p, #paragraph-about-one p, #paragraph-about-twice p {
+      padding-right: 600px;
+    }
+  
+    .contact-container {
+      margin-left: 20px;
+    }
+  
+    .projects-lists {
+      display: block;
+    }
+    
+    .square-eyes-project-preview, .community-science-museum-preview, .gamehub-preview {
+      margin-left: 220px;
+    }
+    
+    .community-science-museum-preview, .gamehub-preview {
+      margin-top: 30px;
+    }
+    
+    .project-container img {
+      width: 250px;
+      height: 150px;
+    }
+  }
+  
+  /* MAX WIDTH 700PX */
+  @media (max-width: 700px) {
+    .flex-menu {
+      margin-left: 50px;
+    }
+    
+    button {
+      width: 160px;
+    }
+    
+    .certicate-only {
+      margin-left: 210px;
+    }
+  
+    .contact-container {
+      width: 500px;
+      margin-left: 60px;
+    }
+  
+    #contact-header h1 {
+      font-size: 25px;
+    }
+  
+    #contact-links a, #contact-links p {
+      font-size: 20px;
+    }
+  
+    .square-eyes-project-preview, .community-science-museum-preview, .gamehub-preview {
+      margin-left: 200px;
+    }
+  }
+  
+  /* MAX WIDTH 670PX */
+  @media (max-width: 670px) {
+    .flex-menu {
+      margin-left: 20px;
+    }
+              
+    #header-index h1 {
+      margin-left: -330px;
+      font-size: 40px;
+    }
+                
+    .index-main-text h2 {
+      margin-left: 210px;
+      font-size: 20px;
+    }
+                
+    #projects-index-body-link a, #about-index-body-link a, #hire-index-body-link a, #certificates-index-body-link a {
+      font-size: 17px;
+    }
+              
+    #paragraph-about p, #paragraph-about-one p, #paragraph-about-twice p {
+      padding-right: 650px;
+    }
+    
+    .show-certifactes-button {
+      margin-left: 30px;
+    }
+  }
+  
+  /* MAX WIDTH 620PX */
+  @media (max-width: 620px) {
+    #paragraph-about p, #paragraph-about-one p, #paragraph-about-twice p {
+      padding-right: 700px;
+    }
+                
+    .flex-menu {
+      margin-left: -20px;
+    }
+    
+    .contact-container {
+      margin-left: 20px;
+    }
+  }
+  
+  /* MAX WIDTH 600PX*/
+  @media (max-width: 600px) {
+    #about-index-body-link, #hire-index-body-link, #certificates-index-body-link {
+      margin-left: 20px;
+    }
+                
+    #projects-index-body-link {
+      margin-left: 80px;
+    }
+                
+    #header-index h1 {
+      margin-left: -380px;
+    }
+                
+    .index-main-text h2 {
+      margin-left: 160px;
+    }
+              
+    .flex-menu {
+      margin-left: -40px;
+    }
+  
+    button {
+      font-size: 12px;
+      width: 150px;
+    }
+  
+    .square-eyes-project-preview, .community-science-museum-preview, .gamehub-preview {
+      margin-left: 150px;
+    }
+  }
+  
+  /* MAX WIDTH 580PX */
+  @media (max-width: 580px) {
+    #paragraph-about p, #paragraph-about-one p, #paragraph-about-twice p {
+      padding-right: 750px;
+    }
+               
+    .flex-menu {
+      margin-left: -70px;
+    }
+  
+    button {
+      width: 130px;
+    }
+    
+    .contact-container {
+      width: 400px;
+      margin-left: 70px;
+    }
+    
+    #contact-header h1 {
+      font-size: 20px;
+    }
+    
+    #contact-links a, #contact-links p {
+      font-size: 15px;
+    }
+  }
+  
+  /* MAX WIDTH 550PX */
+  @media (max-width: 550px) {
+    .index-main-text h2 {
+      margin-bottom: -30px;
+    }
+                
+    #projects-index-body-link a, #about-index-body-link a, #hire-index-body-link a, #certificates-index-body-link a {
+      font-size: 15px;
+    }
+              
+    #header-about h1, #header-about-one h1, #header-about-twice h1 {
+      font-size: 20px;
+    }
+              
+    .about-me-page-main-header h1 {
+      font-size: 25px;
+      margin-left: 50px;
+      margin-bottom: -30px;
+    }
+              
+    .flex-menu {
+      margin-left: -90px;
+    }
+              
+    #paragraph-about p, #paragraph-about-one p, #paragraph-about-twice p {
+      padding-right: 780px;
+    }
+  
+    .certicate-only {
+      margin-left: 130px;
+    }
+  }
