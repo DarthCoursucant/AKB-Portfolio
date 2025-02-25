@@ -1,6 +1,6 @@
 .image-container img {
-    width: 375px;
-    height: 500px;
+    width: 325px;
+    height: 450px;
 }
 
 .whole-content-container {
@@ -12,6 +12,11 @@
     width: 65%;
     margin-left: 5%;
     margin-top: 3%;
+}
+
+.image-container {
+    margin-top: 12%;
+    margin-left: 20px;
 }
 
 .main-contnet-stuff p {
