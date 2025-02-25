@@ -1,6 +1,7 @@
 .image-container img {
     width: 340px;
     height: 465px;
+    border-radius: 20px;
 }
 
 .whole-content-container {
