@@ -2,3 +2,7 @@
     width: 375px;
     height: 500px;
 }
+
+.whole-content-container {
+    display: flex;
+}
