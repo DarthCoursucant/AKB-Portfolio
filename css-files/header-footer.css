@@ -50,3 +50,11 @@ main {
   header.page-header, .header-right, .header-center {
     display: flex;
   }
+
+  .header-center, .header-right {
+    margin-left: 25%;
+  }
+
+  .contact-btn, .work-btn, .twitter-thing, .linkdin-thing {
+    margin-left: 7%;
+  }
