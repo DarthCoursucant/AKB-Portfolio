@@ -3,7 +3,6 @@ html, body {
     height: 100%;
     padding: 0;
     margin: 0;
-    background-color: #045d5d; /* 2. Same as header and footer, does not worj in codepen*/
   }
   
   body {
@@ -13,21 +12,41 @@ html, body {
     flex-direction: column;
   }
   
-  header.page-header, footer.page-footer {
+  header.page-header {
     flex-grow: 0; /* 0. Only takes the place it needs */
     flex-shrink: 0;
-    color: #fafafa;
-    background-color: #045d5d;
+    color: #9b9b9b;
     padding: 10px;
+    background-color: rgba(186, 185, 187, 0.5);
+    width: 95%;
+    border-radius: 30px;
+    margin-left: 2%;
+    margin-top: 1%;
   }
   
   main.page-body {
     flex-grow: 1; /* 1. Let main take all available space */
     padding: 0 10px;
-    background-color: #fafafa;
-    color: black;
   }
 
-  header.page-header {
+  body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://images.unsplash.com/photo-1476445704028-a36e0c798192?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+main {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: flex;
+    color: #ffffff;
+    flex-direction: column;
+}
+
+  header.page-header, .header-right, .header-center {
     display: flex;
   }
