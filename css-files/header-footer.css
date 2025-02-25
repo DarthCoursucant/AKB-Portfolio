@@ -58,3 +58,20 @@ main {
   .contact-btn, .work-btn, .twitter-thing, .linkdin-thing {
     margin-left: 7%;
   }
+
+  .page-header a {
+    text-decoration: none;
+    color: #ffffff;
+  }
+
+  .page-header a:hover {
+    color: #000000;
+  }
+
+  .header-left, .header-center {
+    margin-top: 10px;
+  }
+
+  .header-left {
+    margin-left: 20px;
+  }
