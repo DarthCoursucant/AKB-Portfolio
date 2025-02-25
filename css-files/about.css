@@ -6,3 +6,19 @@
 .whole-content-container {
     display: flex;
 }
+
+.main-contnet-stuff {
+    background-color: red;
+    width: 65%;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.main-contnet-stuff p {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.main-contnet-stuff h1 {
+    text-align: center;
+}
